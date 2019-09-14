@@ -4,10 +4,10 @@ Nwaf.on('ready', () => {
   console.log(`Logged in as ${Nwaf.user.tag}!`);
 
 Nwaf.on('guildMemberAdd', member => {
-const Nwaf= member.guild.channels.get("535229239306354698");
+const Nwaf= member.guild.channels.get("617940864743899136");
 if(!Nwaf) return;
 if(Nwaf) {
-setTimeout(() => Nwaf.send("** Welcome To Mlk♚ **"), 5550)
+setTimeout(() => Nwaf.send("** WELCOME TO SILENT♚ **"), 5550)
 }
 })
 });
